@@ -1,0 +1,8 @@
+svelte.config.js
+.eslint.js
+
+# Temporary disable eslint for these file
+src/modules/cookie.js
+src/client.js
+src/server.js
+src/service-worker.js

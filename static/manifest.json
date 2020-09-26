@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "theme_color": "#aa1e1e",
+  "name": "Tweenfo",
+  "short_name": "Tweenfo",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "icons": []
+}
